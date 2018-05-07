@@ -36,7 +36,7 @@ what is SHA-1?
  * Operator : +, and, or, xor, protocol
 
 
-![nice](/Users/plitoo/Downloads/sha1.png)
+![nice](https://ko.wikipedia.org/wiki/SHA#/media/File:SHA-1.svg)
 
 
 SHA-1 Algorithm example<br>
@@ -50,42 +50,6 @@ SHA-1 Algorithm example<br>
 SHA-1 Example C(1) code
 ---
 ![c_code](/Users/plitoo/Desktop/nicecode.png)
-'''C
-#include <stdio.h>
-typedef struct
-{
-    uint32_t state[5];
-    uint32_t count[2];
-    unsigned char buffer[64];
-} SHA1_CTX;
-
-void SHA1Transform(
-    uint32_t state[5],
-    const unsigned char buffer[64]
-    );
-
-void SHA1Init(
-    SHA1_CTX * context
-    );
-
-void SHA1Update(
-    SHA1_CTX * context,
-    const unsigned char *data,
-    uint32_t len
-    );
-
-void SHA1Final(
-    unsigned char digest[20],
-    SHA1_CTX * context
-    );
-
-void SHA1(
-    char *hash_out,
-    const char *str,
-    int len);
-    '''
-
-
 
 ---------------------
 Let's to see How hack HTTPS 
