@@ -36,7 +36,7 @@ what is SHA-1?
  * Operator : +, and, or, xor, protocol
 
 
-![nice](https://ko.wikipedia.org/wiki/SHA#/media/File:SHA-1.svg)
+<img src = "https://ko.wikipedia.org/wiki/SHA#/media/File:SHA-1.svg">
 
 
 SHA-1 Algorithm example<br>
