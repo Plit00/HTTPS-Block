@@ -35,9 +35,7 @@ what is SHA-1?
  * limit length : 64
  * Operator : +, and, or, xor, protocol
 
-
-<img src = "https://ko.wikipedia.org/wiki/SHA#/media/File:SHA-1.svg">
-
+---------
 
 SHA-1 Algorithm example<br>
   * <code> SHA1("The quick brown fox jumps over the lazy dog")
@@ -45,11 +43,6 @@ SHA-1 Algorithm example<br>
 
 * <code>SHA1("") = da39a3ee5e6b4b0d3255bfef95601890afd80709</code>
 
-
-
-SHA-1 Example C(1) code
----
-![c_code](/Users/plitoo/Desktop/nicecode.png)
 
 ---------------------
 Let's to see How hack HTTPS 
