@@ -1,3 +1,24 @@
+What is SHA-1?
+
+1.Algorithm<br>
+* SHA-1
+ * HashSize : 160
+ * BlockSize : 512
+ * limit length : 64
+ * Operator : +, and, or, xor, protocol
+
+---------
+
+SHA-1 Algorithm example<br>
+  * <code> SHA1("The quick brown fox jumps over the lazy dog")
+= 2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</code>
+
+* <code>SHA1("") = da39a3ee5e6b4b0d3255bfef95601890afd80709</code>
+
+
+---------------------
+
+
 Let's to see How hack HTTPS
 ==
 
