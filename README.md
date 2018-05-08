@@ -45,9 +45,4 @@ SHA-1 Algorithm example<br>
 
 
 ---------------------
-Let's to see How hack HTTPS 
-==
 
-Why block Government  https ip?<br>
-Peoples do illegal performance.
-Block to ip 1.1.1.1 and we don't set in https://[URL]<br>
